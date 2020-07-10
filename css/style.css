@@ -23,7 +23,7 @@
   font-family: 'Roboto Slab', serif;
   font-style: normal;
   font-weight: bold;
-  font-size: calc(22px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(22px + (22 - 14) * ((100vw - 300px) / (1920 - 300)));
   line-height: calc(1.3em + (1.6 - 1.2) * ((100vw - 300px)/(1600 - 300)));
   line-height: 40px;
   color: #E9BD43;
